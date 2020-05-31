@@ -8,7 +8,7 @@
 	<version>${revision}</version>
 	<packaging>pom</packaging>
 	<name>Spring Boot Build</name>
-	<description>Spring Boot Build</description>
+	<description>Spring Boot Build NEW</description>
 	<properties>
 		<revision>2.2.0.BUILD-SNAPSHOT</revision>
 		<main.basedir>${basedir}</main.basedir>
